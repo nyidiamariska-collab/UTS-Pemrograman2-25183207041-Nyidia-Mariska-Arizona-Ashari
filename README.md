@@ -17,9 +17,12 @@ Input data baru
 
 ### 5. MENU HITUNG BIAYA 
 Input nomor pada data, maka perhitungan otomatis muncul 
+<img width="1055" height="530" alt="image" src="https://github.com/user-attachments/assets/c651d8cc-e1f6-40c2-ace2-90675590b2be" />
 
 ### 6. DETAIL KENDARAAN 
 Informasi mengenai kendaraan tersebut
+<img width="1015" height="648" alt="image" src="https://github.com/user-attachments/assets/a67da36b-af13-4842-bf6b-a43dda146610" />
 
 ### 7. KELUAR 
-Terima Kasih Telah Menggunakan Aplikasi Rental Kendaraan, Semoga Perjalanan Anda Menyenangkan
+Terima Kasih Telah Menggunakan Aplikasi Rental Kendaraan
+<img width="970" height="342" alt="image" src="https://github.com/user-attachments/assets/05e73c73-cf44-46bd-8f88-f93880744cf3" />
