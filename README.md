@@ -6,6 +6,7 @@ Tampilan awal bernama RENTAL KENDARAAN, ada beberapa pilihan menu contohnya : Ta
 
 ### 2. MENU TAMBAH KENDARAAN 
 Memilih opsi antara Mobil/Motor, Input nama kendaraan, Input nomor plat, Input Harga sewa/hari, Input lama sewa, Input Jenis Kendaraan(Mobil/Motor), Data Kendaraan Berhasil Ditambahkan
+<img width="1287" height="513" alt="image" src="https://github.com/user-attachments/assets/897d6835-80d9-4742-9448-66d75ea0699a" />
 
 ### 3. MENU TAMPILKAN KENDARAAN 
 
