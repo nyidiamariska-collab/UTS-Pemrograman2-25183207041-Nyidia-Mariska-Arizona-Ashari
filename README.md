@@ -8,6 +8,7 @@ Ubah Data
 Hitung Biaya
 Detail Kendaraan 
 Keluar
+<img width="1013" height="510" alt="image" src="https://github.com/user-attachments/assets/134c3363-aef0-42b8-9ecc-1f0cb0900fca" />
 
 ### 2. MENU TAMBAH KENDARAAN 
 Memilih opsi antara Mobil/Motor, Input nama kendaraan, Input nomor plat, Input Harga sewa/hari, Input lama sewa, Input Jenis Kendaraan(Mobil/Motor), Data Kendaraan Berhasil Ditambahkan
