@@ -1,13 +1,7 @@
 # UTS-Pemrograman2-25183207041-Nyidia-Mariska-Arizona-Ashari
 UTS PEMROGAMAN 2 
 ### 1. MENU UTAMA
-Tampilan awal bernama RENTAL KENDARAAN, ada beberapa pilihan menu contohnya : 
-Tambah Kendaraan
-Tampilkan Kendaraan 
-Ubah Data 
-Hitung Biaya
-Detail Kendaraan 
-Keluar
+Tampilan awal bernama RENTAL KENDARAAN, ada beberapa pilihan menu contohnya : Tambah Kendaraan;Tampilkan Kendaraan ;Ubah Data ;Hitung Biaya; Detail Kendaraan ;Keluar
 <img width="1013" height="510" alt="image" src="https://github.com/user-attachments/assets/134c3363-aef0-42b8-9ecc-1f0cb0900fca" />
 
 ### 2. MENU TAMBAH KENDARAAN 
