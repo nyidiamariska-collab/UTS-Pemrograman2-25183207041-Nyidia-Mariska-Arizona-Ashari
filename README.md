@@ -13,6 +13,7 @@ Memilih opsi antara Mobil/Motor, Input nama kendaraan, Input nomor plat, Input H
 
 ### 4. MENU UBAH DATA 
 Input data baru
+<img width="1230" height="637" alt="image" src="https://github.com/user-attachments/assets/6a6639df-989a-4cea-988c-8a7787e06933" />
 
 ### 5. MENU HITUNG BIAYA 
 Input nomor pada data, maka perhitungan otomatis muncul 
