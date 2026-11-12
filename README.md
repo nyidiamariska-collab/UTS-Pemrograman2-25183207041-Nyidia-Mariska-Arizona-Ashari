@@ -9,6 +9,7 @@ Memilih opsi antara Mobil/Motor, Input nama kendaraan, Input nomor plat, Input H
 <img width="1287" height="513" alt="image" src="https://github.com/user-attachments/assets/897d6835-80d9-4742-9448-66d75ea0699a" />
 
 ### 3. MENU TAMPILKAN KENDARAAN 
+<img width="1067" height="411" alt="image" src="https://github.com/user-attachments/assets/0d1dcbb9-911f-4061-8656-e9511025a1d6" />
 
 ### 4. MENU UBAH DATA 
 Input data baru
